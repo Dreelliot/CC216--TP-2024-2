@@ -4,6 +4,7 @@
 - Diego Fernando Meléndez Marín
 - Leonardo Leoncio Bravo Ricapa
 - Jhamil Brijan Peña Cardenas
+- Alejandra Gallo Riofrio
 
 ## Objetivo del Trabajo:
   Realizar un analisis EDA sobre el dataset hotel_bookings.csv. 
