@@ -1,6 +1,9 @@
 # Trabajo Parcial Equipo Dinamita
 ### Integrantes:
 - Andre Elliot Escalante Bueno
+- Diego Fernando Meléndez Marín
+- Leonardo Leoncio Bravo Ricapa
+- Jhamil Brijan Peña Cardenas
 
 ## Objetivo del Trabajo:
   Realizar un analisis EDA sobre el dataset hotel_bookings.csv. 
