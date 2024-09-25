@@ -62,5 +62,5 @@ Otro hallazgo clave fue la tasa de cancelación, que mostró diferencias entre l
 Adicionalmente, el análisis bivariado mostró una clara relación entre el tipo de hotel y la tarifa diaria promedio (ADR). Los hoteles tipo resort generalmente ofrecieron tarifas más altas que los hoteles urbanos, lo que está en línea con las expectativas, ya que los resorts suelen atraer a un perfil de cliente dispuesto a gastar más en experiencias completas. Esto puede ayudar a los hoteles a ajustar sus precios y promociones según la temporada y el perfil del cliente.
 
 ## Licencia
-Este trabajo esta licenciado bajo el estandar CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
+Este trabajo esta licenciado bajo el estandar CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
