@@ -48,9 +48,12 @@
   - TotalOfSpecialRequest
 
 Title: “Hotel booking demand datasets”
+
 Author: Nuno Antonio, Ana de Almeida, Luis Nunes
+
 Source: https://doi.org/10.1016/j.dib.2018.11.126
-License: CC BY 4.0
+
+License: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
 
 ## Conclusiones
 El análisis exploratorio de datos (EDA) realizado sobre el conjunto de datos "Hotel Booking Demand" permitió extraer varios hallazgos importantes después de un proceso riguroso de limpieza de los datos. Uno de los principales desafíos encontrados fue la presencia de valores faltantes en varias columnas importantes, como "country", "agent" y "company". El código mostró que se manejaron estos valores mediante la imputación de la moda en el caso de "country" y la eliminación de las columnas "agent" y "company", que presentaban demasiados datos faltantes. Este proceso permitió obtener un conjunto de datos más limpio y robusto para el análisis posterior.
